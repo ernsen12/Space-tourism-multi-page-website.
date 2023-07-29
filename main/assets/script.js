@@ -1,6 +1,6 @@
 //import nav
 $(document).ready(function(){
-    $("#nav_placeholder").load("../main/navigation.html");
+    $("#nav_placeholder").load("./navigation.html");
 })
 
 
