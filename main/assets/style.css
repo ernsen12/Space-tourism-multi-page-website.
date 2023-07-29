@@ -30,19 +30,19 @@ body{
 }
 
 .bg_home{
-    background: #0B0D17 url("/assets/home/background-home-mobile.jpg") center center no-repeat fixed;
+    background: #0B0D17 url("./home/background-home-mobile.jpg") center center no-repeat fixed;
     background-size: cover;
 }
 .bg_dest{
-    background: #0B0D17 url("/assets/destination/background-destination-mobile.jpg") center center no-repeat fixed;
+    background: #0B0D17 url("./destination/background-destination-mobile.jpg") center center no-repeat fixed;
     background-size: cover;
 }
 .bg_crew{
-    background: #0B0D17  url("/assets/crew/background-crew-mobile.jpg") center center no-repeat fixed;
+    background: #0B0D17  url("./crew/background-crew-mobile.jpg") center center no-repeat fixed;
     background-size: cover;
 }
 .bg_tech{
-    background: #0B0D17 url("/assets/technology/background-technology-mobile.jpg") center center no-repeat fixed;
+    background: #0B0D17 url("./technology/background-technology-mobile.jpg") center center no-repeat fixed;
     background-size: cover;
 }
 /* ---------------------------- */
@@ -445,19 +445,19 @@ p{
 @media (min-width: 40em){
     /* backrgounds */
     .bg_home{
-        background:#0B0D17 url("/assets/home/background-home-tablet.jpg")  center center no-repeat fixed;
+        background:#0B0D17 url("./home/background-home-tablet.jpg")  center center no-repeat fixed;
         background-size: cover;
     }
     .bg_dest{
-        background:#0B0D17 url("/assets/destination/background-destination-tablet.jpg") center center no-repeat fixed;
+        background:#0B0D17 url("./destination/background-destination-tablet.jpg") center center no-repeat fixed;
         background-size: cover;
     }
     .bg_crew{
-        background: #0B0D17 url("/assets/crew/background-crew-tablet.jpg")  center center no-repeat fixed;
+        background: #0B0D17 url("./crew/background-crew-tablet.jpg")  center center no-repeat fixed;
         background-size: cover;
     }
     .bg_tech{
-        background: #0B0D17 url("/assets/technology/background-technology-tablet.jpg") center center no-repeat fixed;
+        background: #0B0D17 url("./technology/background-technology-tablet.jpg") center center no-repeat fixed;
         background-size: cover;
     }
     /* ---------------------------- */
@@ -668,19 +668,19 @@ p{
 @media (min-width: 75em){
      /* backrgounds */
      .bg_home{
-        background: #0B0D17  url("/assets/home/background-home-desktop.jpg")center center no-repeat fixed;
+        background: #0B0D17  url("./home/background-home-desktop.jpg")center center no-repeat fixed;
         background-size:cover;
     }
     .bg_dest{
-        background: #0B0D17 url("/assets/destination/background-destination-desktop.jpg") center center no-repeat fixed;
+        background: #0B0D17 url("./destination/background-destination-desktop.jpg") center center no-repeat fixed;
         background-size:cover;
     }
     .bg_crew{
-        background: #0B0D17 url("/assets/crew/background-crew-desktop.jpg") center center no-repeat fixed;
+        background: #0B0D17 url("./crew/background-crew-desktop.jpg") center center no-repeat fixed;
         background-size: cover;
     }
     .bg_tech{
-        background: #0B0D17 url("/assets/technology/background-technology-desktop.jpg") center center no-repeat fixed;
+        background: #0B0D17 url("./technology/background-technology-desktop.jpg") center center no-repeat fixed;
         background-size: cover;
     }
     /* ---------------------------- */
