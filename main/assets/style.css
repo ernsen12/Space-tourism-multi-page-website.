@@ -168,7 +168,9 @@ p{
     right: 0;
     top: 0;
     z-index: 4;
+    -webkit-backdrop-filter: blur(81.55px);
     backdrop-filter: blur(81.55px);
+    
 }
 
 .nav_link{
